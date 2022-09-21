@@ -1,5 +1,5 @@
-This shows how to run a Jupyter Notebook in noninteractive with a SLURM
-script.
+This shows how to run a Jupyter Notebook in non-interactive mode with a
+SLURM script.
 
 This assumes that you have a conda environment called `myenv` and that
 you have installed the `ipykernel` module. Those are the steps to
